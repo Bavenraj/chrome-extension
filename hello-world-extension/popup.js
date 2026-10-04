@@ -1,1 +1,1 @@
-console.log("This is a popup!s")
+console.log("This is a popup!")
